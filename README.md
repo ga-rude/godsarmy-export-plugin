@@ -11,6 +11,9 @@ Profiles will be added to the import queue on the webserver, so it might take ~1
 
 ![image](https://user-images.githubusercontent.com/44115138/147391900-6528b327-fc88-4bdc-aaf9-10df99109801.png)
 
+# Restriction
+Only monsters level 40 are updated in the profile. Monsters below max-level will not be listed to reduce database-size.
+
 # Score
 Score indicates a value similar to the "rune efficiency" a lot of you guys will already know when you used SW Optimizer with the JSON generated from SWEX. The difference is, that it is based on the monsters main stats and evaluates these stats that can theoretically be achieved in runes slot 1-6.
 
