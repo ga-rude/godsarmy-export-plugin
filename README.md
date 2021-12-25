@@ -18,6 +18,8 @@ Only monsters level 40 are updated in the profile. Monsters below max-level will
 Score indicates a value similar to the "rune efficiency" a lot of you guys will already know when you used SW Optimizer with the JSON generated from SWEX. The difference is, that it is based on the monsters main stats and evaluates these stats that can theoretically be achieved in runes slot 1-6.
 
 # To-Do List
+The list will be generated after the second scan, the first scan is focussed on determining id and server.
+
 ## Open Slot
 Well. Not much to say. Either a rune or an artefact is missing. :)
 
